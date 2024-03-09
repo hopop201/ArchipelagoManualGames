@@ -1,0 +1,39 @@
+{
+	"Toontown Central": 	{
+		"starting": true,
+		"connects_to": ["Estate","Barnacle Boatyard","Ye Olde ToonTowne","Daffodil Gardens","Mezzo Melodyland"],
+		"requires": []
+	},
+	"Estate": 	{
+		"connects_to": [],
+		"requires": "|Estate|"
+	},
+	"Barnacle Boatyard": 	{
+		"connects_to": ["The Brrrgh","Acorn Acres"],
+		"requires": "|Barnacle Boatyard|"
+	},
+	"Ye Olde ToonTowne": 	{
+		"connects_to": [],
+		"requires": "|Ye Olde ToonTowne|"
+	},
+	"Daffodil Gardens": 	{
+		"connects_to": ["Acorn Acres"],
+		"requires": "|Daffodil Gardens|"
+	},
+	"Mezzo Melodyland": 	{
+		"connects_to": ["The Brrrgh","Drowsy Dreamland"],
+		"requires": "|Mezzo Melodyland|"
+	},
+	"The Brrrgh": 	{
+		"connects_to": ["Drowsy Dreamland"],
+		"requires": "|The Brrrgh|"
+	},
+	"Acorn Acres": 	{
+		"connects_to": [],
+		"requires": "|Acorn Acres|"
+	},
+	"Drowsy Dreamland": 	{
+		"connects_to": [],
+		"requires": "|Drowsy Dreamland|"
+}
+}

@@ -1,0 +1,63 @@
+[
+
+    { "name": "Hub (Course 0)" },
+    { "name": "Purposely kill Atlas" },
+    { "name": "Purposely kill P-body" },
+
+    { "name": "Doors (Course 1 Test Chamber 01)", "requires": [ "Progressive Course 1" ] },
+    { "name": "Buttons (Course 1 Test Chamber 02)",  "requires": [ "Progressive Course 1:2" ] },
+    { "name": "Lasers (Course 1 Test Chamber 03)", "requires": ["Progressive Course 1:3"] },
+    { "name": "Rat Maze (Course 1 Test Chamber 04)", "requires": ["Progressive Course 1:4"] },
+    { "name": "Lazer Crusher (Course 1 Test Chamber 05)", "requires": ["Progressive Course 1:5"] },
+    { "name": "Behind the Scenes (Course 1 Test Chamber 06)", "requires": ["Progressive Course 1:6"] },
+
+    { "name": "Flings (Course 2 Test Chamber 01)", "requires": [ "Progressive Course 2" ] },
+    { "name": "Infinifling (Course 2 Test Chamber 02)",  "requires": [ "Progressive Course 2:2" ] },
+    { "name": "Team Retrieval (Course 2 Test Chamber 03)", "requires": ["Progressive Course 2:3"] },
+    { "name": "Vertical Flings (Course 2 Test Chamber 04)", "requires": ["Progressive Course 2:4"] },
+    { "name": "Catapults (Course 2 Test Chamber 05)", "requires": ["Progressive Course 2:5"] },
+    { "name": "Multifling (Course 2 Test Chamber 06)", "requires": ["Progressive Course 2:6"] },
+    { "name": "Fling Crushers (Course 2 Test Chamber 07)", "requires": ["Progressive Course 2:7"] },
+    { "name": "Industrial Fan (Course 2 Test Chamber 08)", "requires": ["Progressive Course 2:8"] },
+    
+    { "name": "Cooperative Bridges (Course 3 Test Chamber 01)", "requires": [ "Progressive Course 3" ] },
+    { "name": "Bridge Swap (Course 3 Test Chamber 02)",  "requires": [ "Progressive Course 3:2" ] },
+    { "name": "Fling Block (Course 3 Test Chamber 03)", "requires": ["Progressive Course 3:3"] },
+    { "name": "Catapult Block (Course 3 Test Chamber 04)", "requires": ["Progressive Course 3:4"] },
+    { "name": "Bridge Fling (Course 3 Test Chamber 05)", "requires": ["Progressive Course 3:5"] },
+    { "name": "Turret Walls (Course 3 Test Chamber 06)", "requires": ["Progressive Course 3:6"] },
+    { "name": "Turret Assassin (Course 3 Test Chamber 07)", "requires": ["Progressive Course 3:7"] },
+    { "name": "Bridge Testing (Course 3 Test Chamber 08)", "requires": ["Progressive Course 3:8"] },
+    
+    { "name": "Cooperative Funnels (Course 4 Test Chamber 01)", "requires": [ "Progressive Course 4" ] },
+    { "name": "Funnel Drill (Course 4 Test Chamber 02)",  "requires": [ "Progressive Course 4:2" ] },
+    { "name": "Funnel Catch (Course 4 Test Chamber 03)", "requires": ["Progressive Course 4:3"] },
+    { "name": "Funnel Laser (Course 4 Test Chamber 04)", "requires": ["Progressive Course 4:4"] },
+    { "name": "Cooperative Polarity (Course 4 Test Chamber 05)", "requires": ["Progressive Course 4:5"] },
+    { "name": "Funnel Hop (Course 4 Test Chamber 06)", "requires": ["Progressive Course 4:6"] },
+    { "name": "Advanced Polarity (Course 4 Test Chamber 07)", "requires": ["Progressive Course 4:7"] },
+    { "name": "Funnel Maze (Course 4 Test Chamber 08)", "requires": ["Progressive Course 4:8"] },
+    { "name": "Turret Warehouse (Course 4 Test Chamber 09)", "requires": ["Progressive Course 4:9"] },
+    
+    { "name": "Repulsion Jumps (Course 5 Test Chamber 01)", "requires": [ "Progressive Course 5" ] },
+    { "name": "Double Bounce (Course 5 Test Chamber 02)",  "requires": [ "Progressive Course 5:2" ] },
+    { "name": "Bridge Repulsion (Course 5 Test Chamber 03)", "requires": ["Progressive Course 5:3"] },
+    { "name": "Wall Repulsion (Course 5 Test Chamber 04)", "requires": ["Progressive Course 5:4"] },
+    { "name": "Propulsion Crushers (Course 5 Test Chamber 05)", "requires": ["Progressive Course 5:5"] },
+    { "name": "Turret Ninja (Course 5 Test Chamber 06)", "requires": ["Progressive Course 5:6"] },
+    { "name": "Propulsion Retrieval (Course 5 Test Chamber 07)", "requires": ["Progressive Course 5:7"] },
+    { "name": "Vault Entrance (Course 5 Test Chamber 08)", "requires": ["Progressive Course 5:8"] },
+    
+    { "name": "Separation (Course 6 Test Chamber 01)", "requires": [ "Progressive Course 6" ] },
+    { "name": "Triple Axis (Course 6 Test Chamber 02)",  "requires": [ "Progressive Course 6:2" ] },
+    { "name": "Catapult Catch (Course 6 Test Chamber 03)", "requires": ["Progressive Course 6:3"] },
+    { "name": "Bridge Gels (Course 6 Test Chamber 04)", "requires": ["Progressive Course 6:4"] },
+    { "name": "Maintenance (Course 6 Test Chamber 05)", "requires": ["Progressive Course 6:5"] },
+    { "name": "Bridge Catch (Course 6 Test Chamber 06)", "requires": ["Progressive Course 6:6"] },
+    { "name": "Double Lift (Course 6 Test Chamber 07)", "requires": ["Progressive Course 6:7"] },
+    { "name": "Gel Maze (Course 6 Test Chamber 08)", "requires": ["Progressive Course 6:8"] },
+    { "name": "Crazier Box (Course 6 Test Chamber 09)", "requires": ["Progressive Course 6:9"] },
+
+    
+    { "name": "All Courses Completed", "requires": ["Progressive Course 1:6", "Progressive Course 2:8", "Progressive Course 3:8", "Progressive Course 4:9", "Progressive Course 5:8", "Progressive Course 6:9"], "victory": true }
+]

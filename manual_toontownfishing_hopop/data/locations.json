@@ -1,0 +1,428 @@
+[
+	{
+		"name": "Balloon FIsh",
+		"region": "Toontown Central",
+		"category": ["Balloon Fish"],
+		"requires": []
+	},
+	{
+		"name": "Hot Air Balloon Fish",
+		"region": "Toontown Central",
+		"category": ["Balloon Fish"],
+		"requires": []
+	},
+	{
+		"name": "Weather Balloon Fish",
+		"region": "Toontown Central",
+		"category": ["Balloon Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Water Balloon Fish",
+		"region": "Toontown Central",
+		"category": ["Balloon Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Red Balloon Fish",
+		"category": ["Balloon Fish"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Cat Fish",
+		"region": "Daffodil Gardens",
+		"category": ["Cat Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Siamese Cat Fish",
+		"region": "Daffodil Gardens",
+		"category": ["Cat Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Alley Cat Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Cat Fish"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Tabby Cat Fish",
+		"region": "Daffodil Gardens",
+		"category": ["Cat Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Tom Cat Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Cat Fish"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Clown Fish",
+		"region": "Toontown Central",
+		"category": ["Clown Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Sad Clown Fish",
+		"region": "Toontown Central",
+		"category": ["Clown Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Party Clown Fish",
+		"region": "Toontown Central",
+		"category": ["Clown Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Circus Clown Fish",
+		"region": "Toontown Central",
+		"category": ["Clown Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Frozen Fish",
+		"region": "The Brrrgh",
+		"category": ["Frozen Fish"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Star Fish",
+		"region": "Toontown Central",
+		"category": ["Star Fish"],
+		"requires": []
+	},
+	{
+		"name": "Five Star Fish",
+		"region": "Mezzo Melodyland",
+		"category": ["Star Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Rock Star Fish",
+		"region": "Mezzo Melodyland",
+		"category": ["Star Fish"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Shining Star Fish",
+		"region": "Estate",
+		"category": ["Star Fish"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "All Star Fish",
+		"region": "Toontown Central",
+		"category": ["Star Fish"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Holey Mackerel",
+		"region": "Estate",
+		"category": ["Holey Mackerel"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Dog Fish",
+		"region": "Barnacle Boatyard",
+		"category": ["Dog Fish"],
+		"requires": "|Progressive Fishing Rod:4|"
+	},
+	{
+		"name": "Bull Dog Fish",
+		"region": "Barnacle Boatyard",
+		"category": ["Dog Fish"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Hot Dog Fish",
+		"region": "Barnacle Boatyard",
+		"category": ["Dog Fish"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Dalmatian Dog Fish",
+		"region": "Barnacle Boatyard",
+		"category": ["Dog Fish"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Puppy Dog Fish",
+		"region": "Barnacle Boatyard",
+		"category": ["Dog Fish"],
+		"requires": []
+	},
+	{
+		"name": "Amore Eel",
+		"region": "Daffodil Gardens",
+		"category": ["Amore Eel"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Electric Amore Eel",
+		"region": "Daffodil Gardens",
+		"category": ["Amore Eel"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Nurse Shark",
+		"region": "Mezzo Melodyland",
+		"category": ["Nurse Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Clara Nurse Shark",
+		"region": "Mezzo Melodyland",
+		"category": ["Nurse Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Florence Nurse Shark",
+		"region": "Mezzo Melodyland",
+		"category": ["Nurse Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "King Crab",
+		"region": "Barnacle Boatyard",
+		"category": ["King Crab"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Alaskan King Crab",
+		"region": "The Brrrgh",
+		"category": ["King Crab"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Old King Crab",
+		"region": "Barnacle Boatyard",
+		"category": ["King Crab"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Full Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Half Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "New Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": []
+	},
+	{
+		"name": "Crescent Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Harvest Moon Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["Moon Fish"],
+		"requires": "|Progressive Fishing Rod:4|"
+	},
+	{
+		"name": "Sea Horse",
+		"region": "Estate",
+		"category": ["Sea Horse"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Rocking Sea Horse",
+		"region": "Estate",
+		"category": ["Sea Horse"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Clydesdale Sea Horse",
+		"region": "Estate",
+		"category": ["Sea Horse"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Arabian Sea Horse",
+		"region": "Estate",
+		"category": ["Sea Horse"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Pool Shark",
+		"region": "Toontown Central",
+		"category": ["Pool Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Kiddie Pool Shark",
+		"region": "Daffodil Gardens",
+		"category": ["Pool Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Swimming Pool Shark",
+		"region": "Daffodil Gardens",
+		"category": ["Pool Shark"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Olympic Pool Shark",
+		"region": "Daffodil Gardens",
+		"category": ["Pool Shark"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Black Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Koala Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Honey Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Polar Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Panda Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Kodiac Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Grizzly Bear Acuda",
+		"region": "The Brrrgh",
+		"category": ["Bear Acuda"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Cutthroat Trout",
+		"region": "Barnacle Boatyard",
+		"category": ["Cutthroat Trout"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Captain Cutthroat Trout",
+		"region": "Barnacle Boatyard",
+		"category": ["Cutthroat Trout"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Scurvy Cutthroat Trout",
+		"region": "Barnacle Boatyard",
+		"category": ["Cutthroat Trout"],
+		"requires": "|Progressive Fishing Rod:3|"
+	},
+	{
+		"name": "Piano Tuna",
+		"region": "Mezzo Melodyland",
+		"category": ["Piano Tuna"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Grand Piano Tuna",
+		"region": "Mezzo Melodyland",
+		"category": ["Piano Tuna"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "Baby Grand Piano Tuna",
+		"region": "Mezzo Melodyland",
+		"category": ["Piano Tuna"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Upright Piano Tuna",
+		"region": "Mezzo Melodyland",
+		"category": ["Piano Tuna"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "Player Piano Tuna",
+		"region": "Mezzo Melodyland",
+		"category": ["Piano Tuna"],
+		"requires": "|Progressive Fishing Rod:5|"
+	},
+	{
+		"name": "PB&J Fish",
+		"region": "Toontown Central",
+		"category": ["PB&J Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Grape PB&J Fish",
+		"region": "The Brrrgh",
+		"category": ["PB&J Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Crunchy PB&J Fish",
+		"region": "Daffodil Gardens",
+		"category": ["PB&J Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Strawberry PB&J Fish",
+		"region": "Drowsy Dreamland",
+		"category": ["PB&J Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Concord Grape PB&J Fish",
+		"region": "The Brrrgh",
+		"category": ["PB&J Fish"],
+		"requires": "|Progressive Fishing Rod:2|"
+	},
+	{
+		"name": "Devil Ray",
+		"region": "Drowsy Dreamland",
+		"category": ["Devil Ray"],
+		"requires": "|Progressive Fishing Rod:6|"
+	},
+	{
+		"name": "All the fish",
+		"region": "Drowsy Dreamland",
+		"victory": true,
+		"category": ["VICTORY"],
+		"requires": "|Progressive Fishing Rod:6| AND |Barnacle Boatyard| AND |Ye Olde ToonTowne| AND |Daffodil Gardens| AND |Mezzo Melodyland| AND |The Brrrgh| AND |Acorn Acres|"
+	}
+]

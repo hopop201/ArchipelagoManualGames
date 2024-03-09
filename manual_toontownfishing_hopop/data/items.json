@@ -1,0 +1,62 @@
+[
+	{
+		"count":1,
+		"name": "Estate",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barnacle Boatyard",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Ye Olde ToonTowne",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Daffodil Gardens",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mezzo Melodyland",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Brrrgh",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Acorn Acres",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drowsy Dreamland",
+		"category": ["Playground"],
+		"progression": true
+	},
+	{
+		"count": "6",
+		"name": "Progressive Fishing Rod",
+		"category": ["Equipment"],
+		"progression": true
+	},
+	{
+		"count": "8",
+		"name": "Progressive Bucket Size",
+		"category": ["Equipment"],
+		"useful": true
+	}
+]

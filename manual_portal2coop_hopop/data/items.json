@@ -1,0 +1,8 @@
+[ 
+    { "name": "Progressive Course 1", "progression": true, "count": 6 },
+    { "name": "Progressive Course 2", "progression": true, "count": 8 },
+    { "name": "Progressive Course 3", "progression": true, "count": 8 },
+    { "name": "Progressive Course 4", "progression": true, "count": 9 },
+    { "name": "Progressive Course 5", "progression": true, "count": 8 },
+    { "name": "Progressive Course 6", "progression": true, "count": 9 }
+]

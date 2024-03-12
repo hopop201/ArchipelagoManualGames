@@ -1,0 +1,26 @@
+[
+	{
+		"count": "2",
+		"name": "Progressive Fishing Rod",
+		"category": ["Fishing Equipment"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Hand Net",
+		"category": ["Fishing Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Bot Tier",
+		"category": ["Bots"],
+		"useful": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Bot Upgrades",
+		"category": ["Bots"],
+		"useful": true
+	}
+]

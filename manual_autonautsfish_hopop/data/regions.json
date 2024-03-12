@@ -1,0 +1,18 @@
+{
+	"Normal": 	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Rare": 	{
+		"connects_to": [],
+		"requires": "|Progressive Fishing Rod:1| AND |Progressive Hand Net:1|"
+	},
+	"Super Rare": 	{
+		"connects_to": [],
+		"requires": "|Progressive Fishing Rod:2| AND |Progressive Hand Net:2|"
+	},
+	"Equipment": 	{
+		"connects_to": [],
+		"requires": []
+}
+}

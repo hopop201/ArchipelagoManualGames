@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Catch a Salmon",
+		"region": "Normal",
+		"category": ["Fresh Water","Sea Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Perch",
+		"region": "Rare",
+		"category": ["Fresh Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Carp",
+		"region": "Rare",
+		"category": ["Fresh Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Orange Roughy",
+		"region": "Rare",
+		"category": ["Sea Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Monkfish",
+		"region": "Rare",
+		"category": ["Sea Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Catfish",
+		"region": "Super Rare",
+		"category": ["Fresh Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Alligator Gar",
+		"region": "Super Rare",
+		"category": ["Fresh Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Mahi Mahi",
+		"region": "Super Rare",
+		"category": ["Sea Water"],
+		"requires": []
+	},
+	{
+		"name": "Catch a Blue Marlin",
+		"region": "Super Rare",
+		"category": ["Sea Water"],
+		"requires": []
+	},
+	{
+		"name": "Make a Fishing Stick",
+		"region": "Equipment",
+		"category": ["Equipment"],
+		"requires": []
+	},
+	{
+		"name": "Make a Fishing Rod",
+		"region": "Equipment",
+		"category": ["Equipment"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Make a Good Fishing Rod",
+		"region": "Equipment",
+		"category": ["Equipment"],
+		"requires": "|Progressive Fishing Rod:1|"
+	},
+	{
+		"name": "Catch a Bait Fish",
+		"region": "Normal",
+		"category": ["Fresh Water","Sea Water"],
+		"requires": "|Progressive Hand Net:1|"
+	},
+	{
+		"name": "Make a Crude Hand Net",
+		"region": "Equipment",
+		"category": ["Equipment"],
+		"requires": "|Progressive Hand Net:1|"
+	},
+	{
+		"name": "Make a Hand Net",
+		"region": "Equipment",
+		"category": ["Equipment"],
+		"requires": "|Progressive Hand Net:2|"
+	},
+	{
+		"name": "Catch all Fish",
+		"victory": true,
+		"category": [],
+		"requires": "|Progressive Fishing Rod:2| AND |Progressive Hand Net:2|"
+	}
+]

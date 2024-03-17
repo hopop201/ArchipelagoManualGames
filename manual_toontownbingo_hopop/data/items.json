@@ -1,0 +1,146 @@
+[
+	{
+		"name": "Toontown Central Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Barnacle Boatyard Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Ye Olde ToonTowne Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Daffodil Gardens Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Mezzo Melodyland Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "The Brrrgh Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Acorn Acres Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Drowsy Dreamland Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Toontown Central Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Barnacle Boatyard Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Ye Olde ToonTowne Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Daffodil Gardens Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Mezzo Melodyland Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "The Brrrgh Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Acorn Acres Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Drowsy Dreamland Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Sellbot H.Q. Access",
+		"category": ["Headquarters"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Cashbot H.Q. Access",
+		"category": ["Headquarters"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Lawbot H.Q. Access",
+		"category": ["Headquarters"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bossbot H.Q. Access",
+		"category": ["Headquarters"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Sellbot Disguise Part",
+		"category": ["Disguise Part"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Cashbot Disguise Part",
+		"category": ["Disguise Part"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Lawbot Disguise Part",
+		"category": ["Disguise Part"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Bossbot Disguise Part",
+		"category": ["Disguise Part"],
+		"count":10,
+		"progression": true
+	}
+]

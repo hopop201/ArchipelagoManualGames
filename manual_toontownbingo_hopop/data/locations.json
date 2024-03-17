@@ -1,0 +1,896 @@
+[
+	{
+		"name": "[TTC] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[BB] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[YoTT] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[DG] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[MM] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[TB] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[AA] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[DDL] Catch 10 Fish",
+		"region": "Fishing",
+		"category": ["Fishing"],
+		"requires": []
+	},
+	{
+		"name": "[TTC] Bronze Kudos Task #1",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Bronze Kudos Task #2",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Bronze Kudos Task #3",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Bronze Kudos Task #4",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Silver Kudos Task #1",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Silver Kudos Task #2",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Silver Kudos Task #3",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Silver Kudos Task #4",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Gold Kudos Task #1",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Gold Kudos Task #2",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Gold Kudos Task #3",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Gold Kudos Task #4",
+		"region": "Toontown Central",
+		"requires": [],
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Defeat Duck Shuffler",
+		"region": "Toontown Central",
+		"requires": "|Toontown Central Kudos Rank:5|",
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[TTC] Defeat Prethinker",
+		"region": "Toontown Central",
+		"requires": "|Toontown Central Kudos Rank:10|",
+		"category": ["Toontown Central"]
+	},
+	{
+		"name": "[BB] Bronze Kudos Task #1",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Bronze Kudos Task #2",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Bronze Kudos Task #3",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Bronze Kudos Task #4",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Silver Kudos Task #1",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Silver Kudos Task #2",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Silver Kudos Task #3",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Silver Kudos Task #4",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Gold Kudos Task #1",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Gold Kudos Task #2",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Gold Kudos Task #3",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Gold Kudos Task #4",
+		"region": "Barnacle Boatyard",
+		"requires": [],
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Defeat Deep Diver",
+		"region": "Barnacle Boatyard",
+		"requires": "|Barnacle Boatyard Kudos Rank:5|",
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[BB] Defeat Rainmaker",
+		"region": "Barnacle Boatyard",
+		"requires": "|Barnacle Boatyard Kudos Rank:10|",
+		"category": ["Barnacle Boatyard"]
+	},
+	{
+		"name": "[YoTT] Bronze Kudos Task #1",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Bronze Kudos Task #2",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Bronze Kudos Task #3",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Bronze Kudos Task #4",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Silver Kudos Task #1",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Silver Kudos Task #2",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Silver Kudos Task #3",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Silver Kudos Task #4",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Gold Kudos Task #1",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Gold Kudos Task #2",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Gold Kudos Task #3",
+		"region": "Ye Olde ToonTowne",
+		"requires": [],
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Defeat Gatekeeper",
+		"region": "Ye Olde ToonTowne",
+		"requires": "|Ye Olde ToonTowne Kudos Rank:5|",
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[YoTT] Defeat Witch Hunter",
+		"region": "Ye Olde ToonTowne",
+		"requires": "|Ye Olde ToonTowne Kudos Rank:10|",
+		"category": ["Ye Olde ToonTowne"]
+	},
+	{
+		"name": "[DG] Bronze Kudos Task #1",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Bronze Kudos Task #2",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Bronze Kudos Task #3",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Bronze Kudos Task #4",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Silver Kudos Task #1",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Silver Kudos Task #2",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Silver Kudos Task #3",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Silver Kudos Task #4",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Gold Kudos Task #1",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Gold Kudos Task #2",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Gold Kudos Task #3",
+		"region": "Daffodil Gardens",
+		"requires": [],
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Defeat Bellringer",
+		"region": "Daffodil Gardens",
+		"requires": "|Daffodil Gardens Kudos Rank:5|",
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[DG] Defeat Multislacker",
+		"region": "Daffodil Gardens",
+		"requires": "|Daffodil Gardens Kudos Rank:10|",
+		"category": ["Daffodil Gardens"]
+	},
+	{
+		"name": "[SBHQ] Infiltrate A Sellbot Factory",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 2 Sellbot Factorires",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 3 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 4 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 5 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 6 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 7 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 8 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 9 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Infiltrate 10 Sellbot Factories",
+		"region": "Sellbot H.Q.",
+		"requires": [],
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[SBHQ] Defeat V.P.",
+		"region": "Sellbot H.Q.",
+		"requires": "|Sellbot Disguise Part:10|",
+		"category": ["Sellbot H.Q."]
+	},
+	{
+		"name": "[MM] Bronze Kudos Task #1",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Bronze Kudos Task #2",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Bronze Kudos Task #3",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Bronze Kudos Task #4",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Silver Kudos Task #1",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Silver Kudos Task #2",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Silver Kudos Task #3",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Silver Kudos Task #4",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Gold Kudos Task #1",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Gold Kudos Task #2",
+		"region": "Mezzo Melodyland",
+		"requires": [],
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Defeat Mouthpiece",
+		"region": "Mezzo Melodyland",
+		"requires": "|Mezzo Melodyland Kudos Rank:5|",
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[MM] Defeat Major Player",
+		"region": "Mezzo Melodyland",
+		"requires": "|Mezzo Melodyland Kudos Rank:10|",
+		"category": ["Mezzo Melodyland"]
+	},
+	{
+		"name": "[CBHQ] Infiltrate A Coin Mint",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 2 Coin Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 3 Coin Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 4 Coin Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate A Dollar Mint",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 2 Dollar Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 3 Dollar Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 4 Dollar Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate A Bullion Mint",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Infiltrate 2 Bullion Mints",
+		"region": "Cashbot H.Q.",
+		"requires": [],
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[CBHQ] Defeat C.F.O.",
+		"region": "Cashbot H.Q.",
+		"requires": "|Cashbot Disguise Part:10|",
+		"category": ["Cashbot H.Q."]
+	},
+	{
+		"name": "[TB] Bronze Kudos Task #1",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Bronze Kudos Task #2",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Bronze Kudos Task #3",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Bronze Kudos Task #4",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Silver Kudos Task #1",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Silver Kudos Task #2",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Silver Kudos Task #3",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Silver Kudos Task #4",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Gold Kudos Task #1",
+		"region": "The Brrrgh",
+		"requires": [],
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Defeat Firestarter",
+		"region": "The Brrrgh",
+		"requires": "|The Brrrgh Kudos Rank:5|",
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[TB] Defeat Plutocrat",
+		"region": "The Brrrgh",
+		"requires": "|The Brrrgh Kudos Rank:10|",
+		"category": ["The Brrrgh"]
+	},
+	{
+		"name": "[LBHQ] Infiltrate A Lawfice A113",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 2 Lawfice A113s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 3 Lawfice A113s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 4 Lawfice A113s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate A Lawfice B221",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 2 Lawfice B221s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 3 Lawfice B221s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 4 Lawfice B221s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate A Lawfice C418",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Infiltrate 2 Lawfice C418s",
+		"region": "Lawbot H.Q.",
+		"requires": [],
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[LBHQ] Defeat C.L.O.",
+		"region": "Lawbot H.Q.",
+		"requires": "|Lawbot Disguise Part:10|",
+		"category": ["Lawbot H.Q."]
+	},
+	{
+		"name": "[AA] Bronze Kudos Task #1",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Bronze Kudos Task #2",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Bronze Kudos Task #3",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Bronze Kudos Task #4",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Silver Kudos Task #1",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Silver Kudos Task #2",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Silver Kudos Task #3",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Gold Kudos Task #1",
+		"region": "Acorn Acres",
+		"requires": [],
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Defeat Treekiller",
+		"region": "Acorn Acres",
+		"requires": "|Acorn Acres Kudos Rank:5|",
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[AA] Defeat Chainsaw Consultant",
+		"region": "Acorn Acres",
+		"requires": "|Acorn Acres Kudos Rank:10|",
+		"category": ["Acorn Acres"]
+	},
+	{
+		"name": "[BBHQ] Infiltrate A Silver Sprocket Course",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 2 Silver Sprocket Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 3 Silver Sprocket Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 4 Silver Sprocket Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate A Golden Gear Course",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 2 Golden Gear Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 3 Golden Gear Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 4 Golden Gear Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate A Diamond Dynamo Course",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Infiltrate 2 Diamond Dynamo Courses",
+		"region": "Bossbot H.Q.",
+		"requires": [],
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[BBHQ] Defeat C.E.O",
+		"region": "Bossbot H.Q.",
+		"requires": "|Bossbot Disguise Part:10|",
+		"category": ["Bossbot H.Q."]
+	},
+	{
+		"name": "[DDL] Bronze Kudos Task #1",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Bronze Kudos Task #2",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Bronze Kudos Task #3",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Bronze Kudos Task #4",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Silver Kudos Task #1",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Silver Kudos Task #2",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Gold Kudos Task #1",
+		"region": "Drowsy Dreamland",
+		"requires": [],
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Defeat Featherbedder",
+		"region": "Drowsy Dreamland",
+		"requires": "|Drowsy Dreamland Kudos Rank:5|",
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "[DDL] Defeat Pacesetter",
+		"region": "Drowsy Dreamland",
+		"requires": "|Drowsy Dreamland Kudos Rank:10|",
+		"category": ["Drowsy Dreamland"]
+	},
+	{
+		"name": "Complete your Bingo Board",
+		"requires": "|Toontown Central Kudos Rank:10| AND |Barnacle Boatyard Kudos Rank:10| AND |Ye Olde ToonTowne Kudos Rank:10| AND |Daffodil Gardens Kudos Rank:10| AND |Mezzo Melodyland Kudos Rank:10| AND |The Brrrgh Kudos Rank:10| AND |Acorn Acres Kudos Rank:10| AND |Drowsy Dreamland Kudos Rank:10| AND |Sellbot Disguise Part:10| AND |Cashbot Disguise Part:10| AND |Lawbot Disguise Part:10| AND |Bossbot Disguise Part:10|",
+		"victory": true,
+		"category": []
+	}
+]

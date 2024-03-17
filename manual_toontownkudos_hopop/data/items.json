@@ -1,0 +1,98 @@
+[
+	{
+		"name": "Toontown Central Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Barnacle Boatyard Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Ye Olde ToonTowne Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Daffodil Gardens Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Mezzo Melodyland Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "The Brrrgh Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Acorn Acres Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Drowsy Dreamland Kudos Board",
+		"category": ["Kudos Board"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Toontown Central Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Barnacle Boatyard Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Ye Olde ToonTowne Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Daffodil Gardens Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Mezzo Melodyland Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "The Brrrgh Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Acorn Acres Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	},
+	{
+		"name": "Drowsy Dreamland Kudos Rank",
+		"category": ["Kudos Rank"],
+		"count":10,
+		"progression": true
+	}
+]

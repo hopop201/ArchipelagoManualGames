@@ -1,0 +1,38 @@
+{
+	"Fishing": 	{
+		"requires": [],
+		"connects_to": []
+	},
+	"Toontown Central": 	{
+		"requires": "|Toontown Central Kudos Board|",
+		"connects_to": []
+	},
+	"Barnacle Boatyard": 	{
+		"requires": "|Barnacle Boatyard Kudos Board|",
+		"connects_to": []
+	},
+	"Ye Olde ToonTowne": 	{
+		"requires": "|Ye Olde ToonTowne Kudos Board|",
+		"connects_to": []
+	},
+	"Daffodil Gardens": 	{
+		"requires": "|Daffodil Gardens Kudos Board|",
+		"connects_to": []
+	},
+	"Mezzo Melodyland": 	{
+		"requires": "|Mezzo Melodyland Kudos Board|",
+		"connects_to": []
+	},
+	"The Brrrgh": 	{
+		"requires": "|The Brrrgh Kudos Board|",
+		"connects_to": []
+	},
+	"Acorn Acres": 	{
+		"requires": "|Acorn Acres Kudos Board|",
+		"connects_to": []
+	},
+	"Drowsy Dreamland": 	{
+		"requires": "|Drowsy Dreamland Kudos Board|",
+		"connects_to": []
+}
+}

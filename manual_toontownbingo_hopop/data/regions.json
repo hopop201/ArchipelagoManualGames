@@ -1,0 +1,54 @@
+{
+	"Fishing": 	{
+		"requires": [],
+		"connects_to": []
+	},
+	"Toontown Central": 	{
+		"requires": "|Toontown Central Kudos Board|",
+		"connects_to": []
+	},
+	"Barnacle Boatyard": 	{
+		"requires": "|Barnacle Boatyard Kudos Board|",
+		"connects_to": []
+	},
+	"Ye Olde ToonTowne": 	{
+		"requires": "|Ye Olde ToonTowne Kudos Board|",
+		"connects_to": []
+	},
+	"Daffodil Gardens": 	{
+		"requires": "|Daffodil Gardens Kudos Board|",
+		"connects_to": []
+	},
+	"Sellbot H.Q.": 	{
+		"requires": "|Sellbot H.Q. Access|",
+		"connects_to": []
+	},
+	"Mezzo Melodyland": 	{
+		"requires": "|Mezzo Melodyland Kudos Board|",
+		"connects_to": []
+	},
+	"Cashbot H.Q.": 	{
+		"requires": "|Cashbot H.Q. Access|",
+		"connects_to": []
+	},
+	"The Brrrgh": 	{
+		"requires": "|The Brrrgh Kudos Board|",
+		"connects_to": []
+	},
+	"Lawbot H.Q.": 	{
+		"requires": "|Lawbot H.Q. Access|",
+		"connects_to": []
+	},
+	"Acorn Acres": 	{
+		"requires": "|Acorn Acres Kudos Board|",
+		"connects_to": []
+	},
+	"Bossbot H.Q.": 	{
+		"requires": "|Bossbot H.Q. Access|",
+		"connects_to": []
+	},
+	"Drowsy Dreamland": 	{
+		"requires": "|Drowsy Dreamland Kudos Board|",
+		"connects_to": []
+}
+}

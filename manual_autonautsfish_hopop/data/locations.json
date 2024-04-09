@@ -90,6 +90,48 @@
 		"requires": "|Progressive Hand Net:2|"
 	},
 	{
+		"name": "Make Sashimi",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": []
+	},
+	{
+		"name": "Make Shiso Sashimi",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:1|"
+	},
+	{
+		"name": "Make Fish Soup",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:2|"
+	},
+	{
+		"name": "Make Fish Stew",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:3|"
+	},
+	{
+		"name": "Make Fish Pie",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:3| AND |Progressive Oven:2|"
+	},
+	{
+		"name": "Make Fishcakes",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:3| AND |Progressive Oven:2|"
+	},
+	{
+		"name": "Make Fish Burger",
+		"region": "Cooking",
+		"category": ["Cooking"],
+		"requires": "|Progressive Cooking Pot:3| AND |Progressive Oven:2|"
+	},
+	{
 		"name": "Catch all Fish",
 		"victory": true,
 		"category": [],

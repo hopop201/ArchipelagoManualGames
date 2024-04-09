@@ -14,5 +14,9 @@
 	"Equipment": 	{
 		"connects_to": [],
 		"requires": []
-}
+	},
+	"Cooking": 	{
+		"connects_to": [],
+		"requires": "|Kitchen Table:1|"
+	}
 }

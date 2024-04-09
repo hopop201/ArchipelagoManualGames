@@ -22,5 +22,23 @@
 		"name": "Progressive Bot Upgrades",
 		"category": ["Bots"],
 		"useful": true
+	},
+	{
+		"count": "1",
+		"name": "Kitchen Table",
+		"category": ["Cooking Equipment"],
+		"progression": true
+	},
+	{
+		"count": "3",
+		"name": "Progressive Cooking Pot",
+		"category": ["Cooking Equipment"],
+		"progression": true
+	},
+	{
+		"count": "2",
+		"name": "Progressive Oven",
+		"category": ["Cooking Equipment"],
+		"progression": true
 	}
 ]

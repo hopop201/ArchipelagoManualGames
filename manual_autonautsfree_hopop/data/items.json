@@ -1,0 +1,200 @@
+[
+	{
+		"count":1,
+		"name": "Chopping Block",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Gear",
+		"category": ["Parts"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Backpack Upgrade",
+		"category": ["Miscellaneous"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stage 1 - Infrastructure",
+		"category": ["Completed Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sign",
+		"category": ["Miscellaneous"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Crude Wheel",
+		"category": ["Parts"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Stage 2 - Nomad Community",
+		"category": ["Completed Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Mixing Pot",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Basic Bot Workbench",
+		"category": ["Bots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Hut",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Billboard",
+		"category": ["Miscellaneous"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Crude Scooter",
+		"category": ["Miscellaneous"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stage 3 - Isolated Dwelling",
+		"category": ["Completed Stages"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Good Workbench",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Barrels and Silos",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Flooring",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Structural Workbench",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Wood Shaping Bench",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Blade",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Chisel and Mallet",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Farming Tools",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Walls and Doors",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mechanical Frame-Saw",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Clay Station",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Torch",
+		"category": ["Tools"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Cooking Pot",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Threshing Machine",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Clothing Station",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Good Bot Workbench",
+		"category": ["Bots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Log Cabin",
+		"category": ["Structures"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Watering Can",
+		"category": ["Tools"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Good Backpack Upgrade",
+		"category": ["Miscellaneous"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Stage 4 - Hamlet",
+		"category": ["Completed Stages"],
+		"progression": true
+	}
+]

@@ -1,0 +1,284 @@
+[
+	{
+		"name": "Make an Axe",
+		"region": "The Basics",
+		"category": ["Tools"],
+		"requires": []
+	},
+	{
+		"name": "Make a Shovel",
+		"region": "The Basics",
+		"category": ["The Basics"],
+		"requires": []
+	},
+	{
+		"name": "Make a Pick",
+		"region": "Creative",
+		"category": ["Tools"],
+		"requires": []
+	},
+	{
+		"name": "Chop down a tree",
+		"region": "The Basics",
+		"category": ["Stage 1 Academy"],
+		"requires": []
+	},
+	{
+		"name": "Chop a log into planks",
+		"region": "The Basics",
+		"category": ["The Basics"],
+		"requires": []
+	},
+	{
+		"name": "Chop a plank into pole",
+		"region": "The Basics",
+		"category": ["The Basics"],
+		"requires": []
+	},
+	{
+		"name": "Stage 1 Completed",
+		"region": "Creative",
+		"category": ["Settlement Hierarchy"],
+		"requires": ["Crude Gear", "Chopping Block"],
+		"place_item": ["Stage 1 - Infrastructure"]
+	},
+	{
+		"name": "(Stage 2) Folk",
+		"region": "Creative",
+		"category": ["Stage 2 Academy"],
+		"requires": []
+	},
+	{
+		"name": "(Stage 2) Forage Fruit",
+		"region": "Creative",
+		"category": ["Stage 2 Academy"],
+		"requires": []
+	},
+	{
+		"name": "Stage 2 Completed",
+		"region": "Creative",
+		"category": ["Settlement Hierarchy"],
+		"requires": [],
+		"place_item": ["Stage 2 - Nomad Community"]
+	},
+	{
+		"name": "(Stage 3) Science",
+		"region": "Creative",
+		"category": ["Stage 3 Academy"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Farming",
+		"category": ["Stage 3 Academy"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Basic Weed Farm",
+		"category": ["Stage 3 Academy"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Simple Kitchen",
+		"category": ["Stage 3 Academy"],
+		"requires": ["Crude Mixing Pot"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Shelter",
+		"category": ["Stage 3 Academy"],
+		"requires": ["Crude Hut"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Cooking Technology",
+		"category": ["Stage 3 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Robotics Technology",
+		"category": ["Stage 3 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 3) Shelter Technology",
+		"category": ["Stage 3 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"victory": false,
+		"name": "Stage 3 Completed",
+		"category": ["Settlement Hierarchy"],
+		"requires": ["Crude Mixing Pot", "Crude Hut", "Basic Bot Workbench"],
+		"place_item": ["Stage 3 - Isolated Dwelling"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Storage Technology",
+		"category": ["Stage 4 Research"],
+		"requires": []
+	},
+	{
+		"name": "(Stage 4) Construction Technology 1",
+		"region": "Creative",
+		"category": ["Stage 4 Research"],
+		"requires": ["Good Workbench"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Construction Technology 2",
+		"category": ["Stage 4 Research"],
+		"requires": ["Flooring"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Construction Technology 3",
+		"category": ["Stage 4 Research"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Blade"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Tool Technology",
+		"category": ["Stage 4 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Farming Technology 1",
+		"category": ["Stage 4 Research"],
+		"requires": ["Crude Blade"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Construction Technology 4",
+		"category": ["Stage 4 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Lumber Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Blade"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Construction Technology 5",
+		"category": ["Stage 4 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Pottery Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Flooring", "Structural Workbench"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Power Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Good Workbench"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Cooking Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Torch"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Clothing Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Blade", "Wood Shaping Bench"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Robotics Technology",
+		"category": ["Stage 4 Research"],
+		"requires": ["Good Workbench", "Wood Shaping Bench"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Shelter Technology",
+		"category": ["Stage 4 Research"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Science",
+		"category": ["Stage 4 Academy"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Farming",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Barrels and Silos", "Crude Blade", "Threshing Machine"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Lumber",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Blade", "Wood Shaping Bench", "Mechanical Frame-Saw"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Waterworks",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Good Workbench", "Barrels and Silos"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Clay Pit",
+		"category": ["Stage 4 Academy"],
+		"requires": []
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Pottery",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Clay Station"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Cooking",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Good Workbench", "Flooring", "Structural Workbench", "Crude Clay Station", "Torch", "Crude Cooking Pot"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Bulrush Farm",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Crude Blade"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Textiles",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Flooring", "Structural Workbench", "Crude Blade", "Walls and Doors", "Wood Shaping Bench", "Threshing Machine", "Crude Clothing Station"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Clothing Workshop",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Good Workbench", "Barrels and Silos", "Flooring", "Structural Workbench", "Crude Blade", "Walls and Doors", "Wood Shaping Bench", "Crude Clay Station", "Torch", "Crude Cooking Pot", "Threshing Machine", "Crude Clothing Station", "Log Cabin"]
+	},
+	{
+		"region": "Creative",
+		"name": "(Stage 4) Shelter",
+		"category": ["Stage 4 Academy"],
+		"requires": ["Good Workbench", "Barrels and Silos", "Flooring", "Structural Workbench", "Crude Blade", "Walls and Doors", "Wood Shaping Bench", "Crude Clay Station", "Torch", "Crude Cooking Pot", "Threshing Machine", "Crude Clothing Station", "Log Cabin"]
+	},
+	{
+		"region": "Creative",
+		"victory": true,
+		"name": "Stage 4 Completed",
+		"category": ["Settlement Hierarchy"],
+		"requires": ["Good Workbench", "Barrels and Silos", "Flooring", "Structural Workbench", "Crude Blade", "Walls and Doors", "Mechanical Frame-Saw", "Wood Shaping Bench", "Crude Clay Station", "Torch", "Crude Cooking Pot", "Threshing Machine", "Crude Clothing Station", "Log Cabin"],
+		"place_item": ["Stage 4 - Hamlet"]
+	}
+]

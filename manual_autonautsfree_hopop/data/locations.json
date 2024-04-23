@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Make Crude Workbench",
+		"region": "The Basics",
+		"category": ["Workshops"],
+		"requires": []
+	},
+	{
 		"name": "Make an Axe",
 		"region": "The Basics",
 		"category": ["Tools"],
@@ -8,25 +14,25 @@
 	{
 		"name": "Make a Shovel",
 		"region": "The Basics",
-		"category": ["The Basics"],
+		"category": ["Tools"],
 		"requires": []
 	},
 	{
 		"name": "Make a Pick",
-		"region": "Creative",
+		"region": "The Basics",
 		"category": ["Tools"],
 		"requires": []
 	},
 	{
 		"name": "Chop down a tree",
 		"region": "The Basics",
-		"category": ["Stage 1 Academy"],
+		"category": ["Forestry"],
 		"requires": []
 	},
 	{
 		"name": "Chop a log into planks",
 		"region": "The Basics",
-		"category": ["The Basics"],
+		"category": ["Forestry"],
 		"requires": []
 	},
 	{

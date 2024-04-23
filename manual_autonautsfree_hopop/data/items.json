@@ -2,91 +2,169 @@
 	{
 		"count":1,
 		"name": "Chopping Block",
-		"category": ["Structures"],
+		"category": ["Forestry"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Saw",
+		"category": ["Forestry"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Crude Gear",
-		"category": ["Parts"],
+		"name": "Seedling Tray",
+		"category": ["Forestry"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Crude Backpack Upgrade",
-		"category": ["Miscellaneous"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Stage 1 - Infrastructure",
-		"category": ["Completed Stages"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Sign",
-		"category": ["Miscellaneous"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Crude Wheel",
-		"category": ["Parts"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Stage 2 - Nomad Community",
-		"category": ["Completed Stages"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Crude Mixing Pot",
-		"category": ["Food"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Basic Bot Workbench",
-		"category": ["Bots"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Crude Hut",
-		"category": ["Structures"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Billboard",
-		"category": ["Miscellaneous"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Crude Scooter",
-		"category": ["Miscellaneous"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Stage 3 - Isolated Dwelling",
-		"category": ["Completed Stages"],
+		"name": "Wood Shaping Bench",
+		"category": ["Workshop"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Good Workbench",
-		"category": ["Structures"],
+		"category": ["Workshop"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Barrels and Silos",
-		"category": ["Structures"],
+		"name": "Structural Workbench",
+		"category": ["Workshop"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Metal Workstation",
+		"category": ["Workshop"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Vehicle Assembly Unit",
+		"category": ["Workshop"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Bot Assembly Unit",
+		"category": ["Bots"],
+		"progression": true
+	},
+	{
+		"count":3,
+		"name": "Progressive Bot Workbench",
+		"category": ["Bots"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Progressive Backpack Upgrade",
+		"category": ["Player Upgrades"],
+		"useful": true
+	},
+	{
+		"count":3,
+		"name": "Progressive Personal Transport",
+		"category": ["Player Upgrades"],
+		"useful": true
+	},
+	{
+		"count":3,
+		"name": "Progressive Mixing Pot",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Kitchen Table",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Quern",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Butter Churn",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Oven",
+		"category": ["Cooking"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Colonist Dispenser and Incubator",
+		"category": ["Food"],
+		"progression": true
+	},
+	{
+		"count":6,
+		"name": "Progressive Shelter",
+		"category": ["Housing"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Spinning Wheel",
+		"category": ["Clothing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Clothing Station",
+		"category": ["Clothing"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Loom",
+		"category": ["Clothing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sewing Station",
+		"category": ["Clothing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toy Station",
+		"category": ["Leuisure"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Alchemy Station",
+		"category": ["Health"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Paper Mill",
+		"category": ["Education"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Printing Press",
+		"category": ["Education"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Easel",
+		"category": ["Culture"],
 		"progression": true
 	},
 	{
@@ -97,104 +175,116 @@
 	},
 	{
 		"count":1,
-		"name": "Structural Workbench",
-		"category": ["Structures"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Wood Shaping Bench",
-		"category": ["Structures"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Crude Blade",
-		"category": ["Tools"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Chisel and Mallet",
-		"category": ["Tools"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Crude Farming Tools",
-		"category": ["Tools"],
-		"progression": true
-	},
-	{
-		"count":1,
 		"name": "Walls and Doors",
 		"category": ["Structures"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Mechanical Frame-Saw",
-		"category": ["Structures"],
+		"name": "Trough",
+		"category": ["Wildlife"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Bee House",
+		"category": ["Wildlife"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Crude Clay Station",
-		"category": ["Structures"],
+		"name": "Hay Baler",
+		"category": ["Wildlife"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Torch",
-		"category": ["Tools"],
+		"name": "Crude Shearing Shed",
+		"category": ["Wildlife"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Crude Cooking Pot",
-		"category": ["Structures"],
+		"name": "Crude Milking Shed",
+		"category": ["Wildlife"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Plant Breeding Station",
+		"category": ["Wildlife"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Animal Breeding Station",
+		"category": ["Wildlife"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Silkworm Station",
+		"category": ["Wildlife"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Henhouse",
+		"category": ["Wildlife"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Barn",
+		"category": ["Wildlife"],
+		"useful": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Clay Station",
+		"category": ["Processing"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Crude Kiln",
+		"category": ["Processing"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Furnace",
+		"category": ["Processing"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Threshing Machine",
-		"category": ["Structures"],
+		"category": ["Processing"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Crude Clothing Station",
-		"category": ["Structures"],
+		"name": "Crude String Maker",
+		"category": ["Processing"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Mortar Mixer",
+		"category": ["Processing"],
+		"progression": true
+	},
+	{
+		"count":2,
+		"name": "Progressive Power Generation",
+		"category": ["Power"],
 		"progression": true
 	},
 	{
 		"count":1,
-		"name": "Good Bot Workbench",
-		"category": ["Bots"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Log Cabin",
-		"category": ["Structures"],
-		"progression": true
-	},
-	{
-		"count":1,
-		"name": "Watering Can",
-		"category": ["Tools"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Good Backpack Upgrade",
-		"category": ["Miscellaneous"],
-		"useful": true
-	},
-	{
-		"count":1,
-		"name": "Stage 4 - Hamlet",
-		"category": ["Completed Stages"],
+		"name": "Rail Tracks",
+		"category": ["Rail"],
 		"progression": true
 	}
 ]

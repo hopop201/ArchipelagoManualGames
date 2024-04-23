@@ -2,6 +2,11 @@
 	"The Basics": 
 	{
 		"starting": true,
+		"connects_to": ["Food Tier 1"],
+		"requires": []
+	},
+	"Food Tier 1": 
+	{
 		"connects_to": [],
 		"requires": []
 	}

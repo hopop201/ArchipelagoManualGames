@@ -18,22 +18,22 @@
 	"Food Tier 3": 
 	{
 		"connects_to": ["Food Tier 4"],
-		"requires": "|Progressive Mixing Pot:2| AND |Progressive Clay Station:1| AND |Crude Kiln:1| AND |Good Workbench:1|"
+		"requires": "|Progressive Mixing Pot:2| AND |Progressive Clay Station:1| AND |Crude Kiln:1| AND |Good Workbench:1| AND |Structural Workbench:1|"
 	},
 	"Food Tier 4": 
 	{
 		"connects_to": ["Food Tier 5"],
-		"requires": "|Progressive Mixing Pot:3|" //Individual items need Bee House or Kitchen Table
+		"requires": "|Progressive Mixing Pot:3|"
 	},
 	"Food Tier 5": 
 	{
 		"connects_to": ["Food Tier 6"],
-		"requires": "|Kitchen Table:1| AND |Progressive Clay Station:2| AND |Progressive Oven:2| AND |Progressive Mortar Mixer:1| AND |Structural Workbench:1| AND |Masonry Bench:1|"
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:2| AND |Butter Churn:1| AND |Progressive Clay Station:2| AND |Progressive Furnace:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1| AND |Progressive Metal Workstation:1| AND |Wood Shaping Bench:1| AND |Progressive Oven:2| AND |Progressive Mortar Mixer:1| AND |Masonry Bench:1|"
 	},
 	"Food Tier 6": 
 	{
 		"connects_to": ["Food Tier 7"],
-		"requires": "|Progressive Quern:2| AND |Wood Shaping Bench:1| AND |Progressive Furnace:1| AND |Progressive Metal Workstation:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1| AND |Butter Churn:1| AND |Progressive Bee House:1|"
+		"requires": "|Progressive Bee House:1|"
 	},
 	"Food Tier 7": 
 	{

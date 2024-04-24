@@ -120,9 +120,255 @@
 		"requires": "|Crude Plant Breeding Station:1|"
 	},
 	{
-		"name": "Make Watery Porridge",
+		"name": "Cook Watery Porridge",
 		"region": "Food Tier 2",
 		"category": ["Cereal"],
 		"requires": "|Progressive Clay Station:1| AND |Crude Kiln:1| AND |Good Workbench:1|"
+	},
+	{
+		"name": "Cook Stewed Berries",
+		"region": "Food Tier 3",
+		"category": ["Berries"],
+		"requires": []
+	},
+	{
+		"name": "Cook Pumpkin Soup",
+		"region": "Food Tier 3",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Cook Fish Soup",
+		"region": "Food Tier 3",
+		"category": ["Fish"],
+		"requires": []
+	},
+	{
+		"name": "Cook Mushroom Soup",
+		"region": "Food Tier 3",
+		"category": ["Mushrooms"],
+		"requires": []
+	},
+	{
+		"name": "Cook Stewed Apples",
+		"region": "Food Tier 3",
+		"category": ["Apple"],
+		"requires": []
+	},
+	{
+		"name": "Cook Carrot Stir-Fry",
+		"region": "Food Tier 3",
+		"category": ["Carrot"],
+		"requires": []
+	},
+	{
+		"name": "Cook Creamy Porridge",
+		"region": "Food Tier 3",
+		"category": ["Cereal"],
+		"requires": []
+	},
+	{
+		"name": "Bake Crude Bread",
+		"region": "Food Tier 3",
+		"category": ["Cereal"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:1| AND |Progressive Oven:1|"
+	},
+	{
+		"name": "Cook Berry Jam",
+		"region": "Food Tier 4",
+		"category": ["Berries"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Cook Pumpkin Stew",
+		"region": "Food Tier 4",
+		"category": ["Pumpkin"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:1|"
+	},
+	{
+		"name": "Cook Fish Stew",
+		"region": "Food Tier 4",
+		"category": ["Fish"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:1|"
+	},
+	{
+		"name": "Cook Mushroom Stew",
+		"region": "Food Tier 4",
+		"category": ["Mushrooms"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:1|"
+	},
+	{
+		"name": "Cook Apple Jam",
+		"region": "Food Tier 4",
+		"category": ["Apple"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Bake Honey-Glazed Roasted Carrots",
+		"region": "Food Tier 4",
+		"category": ["Carrot"],
+		"requires": "|Progressive Bee House:1| AND |Progressive Oven:1|"
+	},
+	{
+		"name": "Cook Honey Porridge",
+		"region": "Food Tier 4",
+		"category": ["Cereal"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Cook Fruit Porridge",
+		"region": "Food Tier 4",
+		"category": ["Cereal"],
+		"requires": []
+	},
+	{
+		"name": "Bake Good Bread",
+		"region": "Food Tier 4",
+		"category": ["Cereal"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:2| AND |Progressive Furnace:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1| AND |Progressive Metal Workstation:1| AND |Wood Shaping Bench:1| AND |Progressive Oven:2| AND |Progressive Mortar Mixer:1| AND |Masonry Bench:1|"
+	},
+	{
+		"name": "Bake Naan",
+		"region": "Food Tier 4",
+		"category": ["Cereal"],
+		"requires": "|Kitchen Table:1| AND |Progressive Quern:2| AND |Progressive Furnace:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1| AND |Progressive Metal Workstation:1| AND |Wood Shaping Bench:1| AND |Butter Churn:1| AND |Progressive Oven:2| AND |Progressive Mortar Mixer:1| AND |Masonry Bench:1|"
+	},
+	{
+		"name": "Bake Berry Pie",
+		"region": "Food Tier 5",
+		"category": ["Berries"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Bake Pumpkin Pie",
+		"region": "Food Tier 5",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Bake Fish Pie",
+		"region": "Food Tier 5",
+		"category": ["Fish"],
+		"requires": []
+	},
+	{
+		"name": "Bake Mushroom Pie",
+		"region": "Food Tier 5",
+		"category": ["Mushrooms"],
+		"requires": []
+	},
+	{
+		"name": "Bake Apple Pie",
+		"region": "Food Tier 5",
+		"category": ["Apple"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Make Carrot Curry and Naan",
+		"region": "Food Tier 5",
+		"category": ["Carrot"],
+		"requires": "|Progressive Bee House:1|"
+	},
+	{
+		"name": "Make Buttered Bread",
+		"region": "Food Tier 5",
+		"category": ["Cereal"],
+		"requires": []
+	},
+	{
+		"name": "Bake Berry Cake",
+		"region": "Food Tier 6",
+		"category": ["Berries"],
+		"requires": []
+	},
+	{
+		"name": "Bake Pumpkin Cake",
+		"region": "Food Tier 6",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Bake Pumpkin-Mushroom Pie",
+		"region": "Food Tier 6",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Bake Fish Cakes",
+		"region": "Food Tier 6",
+		"category": ["Fish"],
+		"requires": []
+	},
+	{
+		"name": "Bake Mushroom Pudding",
+		"region": "Food Tier 6",
+		"category": ["Mushrooms"],
+		"requires": []
+	},
+	{
+		"name": "Bake Apple Cake",
+		"region": "Food Tier 6",
+		"category": ["Apple"],
+		"requires": []
+	},
+	{
+		"name": "Bake Apple-Berry Pie",
+		"region": "Food Tier 6",
+		"category": ["Apple"],
+		"requires": []
+	},
+	{
+		"name": "Bake Carrot Cake",
+		"region": "Food Tier 6",
+		"category": ["Carrot"],
+		"requires": []
+	},
+	{
+		"name": "Bake Bread and Butter Pudding",
+		"region": "Food Tier 6",
+		"category": ["Berries"],
+		"requires": []
+	},
+	{
+		"name": "Bake Berry Danish",
+		"region": "Food Tier 7",
+		"category": ["Berries"],
+		"requires": []
+	},
+	{
+		"name": "Bake Pumpkin Burger",
+		"region": "Food Tier 7",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Bake Fish Burger",
+		"region": "Food Tier 7",
+		"category": ["Fish"],
+		"requires": []
+	},
+	{
+		"name": "Bake Mushroom Burger",
+		"region": "Food Tier 7",
+		"category": ["Mushrooms"],
+		"requires": []
+	},
+	{
+		"name": "Bake Apple Danish",
+		"region": "Food Tier 7",
+		"category": ["Apple"],
+		"requires": []
+	},
+	{
+		"name": "Bake Carrot Burger",
+		"region": "Food Tier 7",
+		"category": ["Carrot"],
+		"requires": []
+	},
+	{
+		"name": "Bake Cream Brioche",
+		"region": "Food Tier 7",
+		"category": ["Berries"],
+		"requires": []
 	}
 ]

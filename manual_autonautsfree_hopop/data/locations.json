@@ -60,7 +60,7 @@
 		"requires": []
 	},
 	{
-		"name": "Harvest Mushrooms",
+		"name": "Harvest Loose Mushrooms",
 		"region": "Food Tier 1",
 		"category": ["Mushrooms"],
 		"requires": []
@@ -82,5 +82,47 @@
 		"region": "Food Tier 1",
 		"category": ["Cereal"],
 		"requires": []
+	},
+	{
+		"name": "Make Spiced Berries",
+		"region": "Food Tier 2",
+		"category": ["Berries"],
+		"requires": []
+	},
+	{
+		"name": "Make Herby Pumpkin",
+		"region": "Food Tier 2",
+		"category": ["Pumpkin"],
+		"requires": []
+	},
+	{
+		"name": "Make Shiso Sashimi",
+		"region": "Food Tier 2",
+		"category": ["Fish"],
+		"requires": []
+	},
+	{
+		"name": "Make Herb Mushrooms",
+		"region": "Food Tier 2",
+		"category": ["Mushrooms"],
+		"requires": []
+	},
+	{
+		"name": "Make Spiced Apple",
+		"region": "Food Tier 2",
+		"category": ["Apple"],
+		"requires": []
+	},
+	{
+		"name": "Make Carrot Salad",
+		"region": "Food Tier 2",
+		"category": ["Carrot"],
+		"requires": "|Crude Plant Breeding Station:1|"
+	},
+	{
+		"name": "Make Watery Porridge",
+		"region": "Food Tier 2",
+		"category": ["Cereal"],
+		"requires": "|Progressive Clay Station:1| AND |Crude Kiln:1| AND |Good Workbench:1|"
 	}
 ]

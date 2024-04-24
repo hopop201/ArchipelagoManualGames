@@ -25,6 +25,12 @@
 	},
 	{
 		"count":1,
+		"name": "Masonry Bench",
+		"category": ["Workshop"],
+		"progression": true
+	},
+	{
+		"count":1,
 		"name": "Good Workbench",
 		"category": ["Workshop"],
 		"progression": true

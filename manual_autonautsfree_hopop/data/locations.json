@@ -370,5 +370,41 @@
 		"region": "Food Tier 7",
 		"category": ["Berries"],
 		"requires": []
+	},
+	{
+		"name": "Build Crude Hut",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:1|"
+	},
+	{
+		"name": "Build Log Cabin",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:2|"
+	},
+	{
+		"name": "Build Stone Cottage",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:3| AND |Masonry Bench:1| AND |Progressive Mortar Mixer:1| AND |Good Workbench:1| AND |Structural Workbench:1|"
+	},
+	{
+		"name": "Build Brick House",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:4| AND |Masonry Bench:1| AND |Progressive Mortar Mixer:1| AND |Good Workbench:1| AND |Structural Workbench:1| AND |Progressive Clay Station:2| AND |Crude Kiln:1|"
+	},
+	{
+		"name": "Build Mansion",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:5| AND |Masonry Bench:1| AND |Progressive Mortar Mixer:1| AND |Good Workbench:1| AND |Structural Workbench:1| AND |Progressive Clay Station:2| AND |Crude Kiln:1| AND |Progressive Metal Workstation:2| AND |Progressive Furnace:1| AND |Progressive Saw:2| AND |Wood Shaping Bench:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1|"
+	},
+	{
+		"name": "Build Castle",
+		"region": "Housing",
+		"category": ["Housing"],
+		"requires": "|Progressive Shelter:6| AND |Masonry Bench:1| AND |Progressive Mortar Mixer:1| AND |Good Workbench:1| AND |Structural Workbench:1| AND |Progressive Clay Station:2| AND |Crude Kiln:1| AND |Progressive Metal Workstation:2| AND |Progressive Furnace:1| AND |Progressive Saw:2| AND |Wood Shaping Bench:1| AND |Crude Clothing Station:1| AND |Progressive Spinning Wheel:1| AND |Threshing Machine:1|"
 	}
 ]

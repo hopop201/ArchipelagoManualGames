@@ -2,7 +2,7 @@
 	"The Basics": 
 	{
 		"starting": true,
-		"connects_to": ["Food Tier 1"],
+		"connects_to": ["Food Tier 1","Housing"],
 		"requires": []
 	},
 	"Food Tier 1": 
@@ -36,6 +36,11 @@
 		"requires": "|Progressive Bee House:1|"
 	},
 	"Food Tier 7": 
+	{
+		"connects_to": [],
+		"requires": []
+	},
+	"Housing": 
 	{
 		"connects_to": [],
 		"requires": []
